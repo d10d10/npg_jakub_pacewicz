@@ -1,1 +1,1 @@
-to jest testowa linia pliku README
+to jest zmodyfikowana linia pliku README
